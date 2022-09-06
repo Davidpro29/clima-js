@@ -6,3 +6,5 @@ Aplicação com javascript para mostrar climas em diversos locais do Mundo!
 ![climaErro](https://user-images.githubusercontent.com/89535654/188635564-f1683f5e-963d-4c87-a123-78b5f09675e6.png)
 
 Aplicação criada para melhor aorendizado de riquisições com javascript, consumindo dados da API OpenWaether, usando práicas do DOM e Fetch!
+
+<strong>https://weathersilva.netlify.app/</strong>
